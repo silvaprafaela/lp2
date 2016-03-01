@@ -1,0 +1,4 @@
+Tipo Abstrato de Dados: (ou TAD) é uma especificação de um conjunto de dados e operações que podem ser executadas sobre esses dados. 
+Classe: É um tipo abstrato de dados.
+Objeto: São instâncias da classe. ( Obs: instanciar significa dar vida a classe).
+Mensagens: No caso da informática, seria uma espécie de 'mensagem fictícia' que ocorre dentro do sistema para 'invocar' diretamente uma classe com finalidade de usá-la ou simplesmente invocar 'estados' da classe.
